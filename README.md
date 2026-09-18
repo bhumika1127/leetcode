@@ -23,4 +23,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/bhumika1127/leetcode/tree/main/0704-binary-search/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bhumika1127/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bhumika1127/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
