@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bhumika1127/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhumika1127/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,8 +29,13 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bhumika1127/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bhumika1127/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhumika1127/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bhumika1127/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhumika1127/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
