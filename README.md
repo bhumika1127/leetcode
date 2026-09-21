@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/bhumika1127/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/bhumika1127/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0496-next-greater-element-i](https://github.com/bhumika1127/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0622-design-circular-queue](https://github.com/bhumika1127/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/bhumika1127/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bhumika1127/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhumika1127/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/bhumika1127/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0622-design-circular-queue](https://github.com/bhumika1127/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,8 +64,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/bhumika1127/leetcode/tree/main/0155-min-stack/) | Medium |
+| [0622-design-circular-queue](https://github.com/bhumika1127/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/bhumika1127/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/bhumika1127/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
