@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bhumika1127/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/bhumika1127/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/bhumika1127/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/bhumika1127/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0622-design-circular-queue](https://github.com/bhumika1127/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/bhumika1127/leetcode/tree/main/0704-binary-search/) | Easy |
@@ -127,4 +128,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/bhumika1127/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/bhumika1127/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/bhumika1127/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/bhumika1127/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/bhumika1127/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
