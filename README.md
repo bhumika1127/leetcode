@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/bhumika1127/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumika1127/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/bhumika1127/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/bhumika1127/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/bhumika1127/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0622-design-circular-queue](https://github.com/bhumika1127/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/bhumika1127/leetcode/tree/main/0704-binary-search/) | Easy |
@@ -26,10 +27,12 @@
 | [0001-two-sum](https://github.com/bhumika1127/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhumika1127/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/bhumika1127/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/bhumika1127/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/bhumika1127/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/bhumika1127/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/bhumika1127/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -49,6 +52,7 @@
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhumika1127/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/bhumika1127/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/bhumika1127/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +144,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumika1127/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/bhumika1127/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/bhumika1127/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
