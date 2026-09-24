@@ -10,6 +10,7 @@
 | [0496-next-greater-element-i](https://github.com/bhumika1127/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0622-design-circular-queue](https://github.com/bhumika1127/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/bhumika1127/leetcode/tree/main/0704-binary-search/) | Easy |
+| [1046-last-stone-weight](https://github.com/bhumika1127/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumika1127/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1046-last-stone-weight](https://github.com/bhumika1127/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
