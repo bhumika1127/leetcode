@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bhumika1127/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/bhumika1127/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0200-number-of-islands](https://github.com/bhumika1127/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumika1127/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/bhumika1127/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/bhumika1127/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -21,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/bhumika1127/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0200-number-of-islands](https://github.com/bhumika1127/leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@
 | [0110-balanced-binary-tree](https://github.com/bhumika1127/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumika1127/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhumika1127/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/bhumika1127/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/bhumika1127/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -125,6 +128,7 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/bhumika1127/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhumika1127/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/bhumika1127/leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,4 +158,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumika1127/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/bhumika1127/leetcode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
